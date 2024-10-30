@@ -1,0 +1,17 @@
+# Web3 for interacting with Ethereum blockchain
+web3==5.29.0
+
+# IPFS client for Python
+ipfshttpclient==0.8.0
+
+# Data manipulation and analysis
+pandas==1.5.3
+
+# Machine Learning library
+tensorflow==2.12.0
+
+# Keras for building LSTM models
+keras==2.12.0
+
+# Scikit-learn for data preprocessing and splitting
+scikit-learn==1.2.1
